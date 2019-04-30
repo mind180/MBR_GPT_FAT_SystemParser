@@ -1,0 +1,6 @@
+C:\Users\HW\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Release\FileManager.exe.config
+C:\Users\HW\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Release\FileManager.exe
+C:\Users\HW\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Release\FileManager.pdb
+C:\Users\HW\documents\visual studio 2013\Projects\FileManager\FileManager\obj\Release\FileManager.csprojResolveAssemblyReference.cache
+C:\Users\HW\documents\visual studio 2013\Projects\FileManager\FileManager\obj\Release\FileManager.exe
+C:\Users\HW\documents\visual studio 2013\Projects\FileManager\FileManager\obj\Release\FileManager.pdb
